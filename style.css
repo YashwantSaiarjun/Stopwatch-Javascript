@@ -1,0 +1,40 @@
+body{
+    background: #00A99E;
+    font-family: 'Gemunu Libre', sans-serif;
+    height: 100%
+}
+.container{
+    width: 800px;
+    margin: 30px auto;
+    color: white;
+    text-align: center;
+}
+h1,h2,h3{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: 100;
+    font-size: 3rem;
+    text-transform: capitalize;
+}
+#seconds,#tens{
+    font-size: 5em;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+button{
+    width: 150px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    border-radius: 5px;
+    margin-right: 10px;
+    outline: none;
+    font-size: 20px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+button:hover{
+    background: white;
+    color: #00A99E;
+    font-weight: 800px;
+    text-transform: capitalize;
+
+}
